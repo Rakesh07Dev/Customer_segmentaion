@@ -120,7 +120,7 @@ customer-segmentation/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rakesh0123456/customer-segmentation.git
+git clone https://github.com/Rakesh07Dev/customer-segmentation
 ```
 
 ### 2. Enter the project folder
@@ -195,7 +195,7 @@ This project helped me understand:
 **Rakesh Singh**
 
 GitHub:
-https://github.com/Rakesh0123456
+https://github.com/Rakesh07Dev/customer-segmentation
 
 Project Repository:
-https://github.com/Rakesh0123456/customer-segmentation
+https://github.com/Rakesh07Dev/customer-segmentation
